@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey👋
+I'm Naveen Pandurangi, a front-end web-developer👨🏻‍💻 specialising in React applications. 
 
-<!--
-**PiperGuy/PiperGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 You can find me:
+-
+On my [portfolio site](https://piperguy.github.io) and also on social media:
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/naveen-pandurangi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/_PiperGuy_?style=social)](https://twitter.com/_PiperGuy_)
+
+⚡ Work:
+-
+I currently work at [Airtel x labs](https://www.linkedin.com/company/airtel-x-labs/mycompany/)
