@@ -3,7 +3,7 @@ I'm Naveen Pandurangi, a front-end web-developer👨🏻‍💻 specialising in 
 
 📫 You can find me:
 -
-On my [portfolio site](https://piperguy.github.io) and also on social media:
+On my [![portfolio site](https://img.shields.io/badge/home-PiperGuy.github.io-orange)](https://piperguy.github.io) and also on social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/naveen-pandurangi/)
 
