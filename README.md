@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋 I'm Naveen!</h1> 
 <h2 align="center">I use code to create things that benefit others</h2>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
+  <a href="https://app.daily.dev/piperguy"><img src="https://api.daily.dev/devcards/3a01c994b522423fa29b4c93a04b1504.png?r=ivd" width="180" alt="Naveen Pandurangi's Dev Card"/></a>
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
+
 
 I'm a Senior Software Engineer at [Airtel x labs](https://www.linkedin.com/company/airtel-x-labs/mycompany/). A digital network provider in India, where I build production-ready front-end modules mainly to support the customer base.
 
