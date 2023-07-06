@@ -10,7 +10,7 @@
 I'm a Senior Software Engineer at [Airtel x labs](https://www.linkedin.com/company/airtel-x-labs/mycompany/). A digital network provider in India, where I build production-ready front-end modules mainly to support the customer base.
 
 - 🐝 I have worked on several side projects on web development using MERN stack that is deployed to Heroku/Vercel
-- 🔭 building [piperguy.github.io](https://piperguy.github.io)
+- 🔭 building [youfoundpiperguy.com](https://youfoundpiperguy.com)
 - 🧠 learning nextjs, typescript and currenly looking to get more familiar with AWS ecosystems for personal projects
 - 🌱 loving react, nextjs, styled-components, redux and plopjs 
 - 👾 I also play CS:GO occasionally
