@@ -14,11 +14,12 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=piperguy" target="_blank">
+  <a href="https://app.daily.dev/piperguy">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/piperguy/piperguy/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/piperguy/piperguy/blob/master/devcard.svg"
+      alt="Naveen Pandurangi's Dev Card"
     />
   </a>
 </div>
