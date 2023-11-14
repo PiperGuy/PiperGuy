@@ -18,7 +18,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/PiperGuy/PiperGuy/blob/main/devcard.svg"
+      src="https://github.com/PiperGuy/PiperGuy/blob/main/devcard.svg"
       alt="Naveen Pandurangi's Dev Card"
     />
   </a>
