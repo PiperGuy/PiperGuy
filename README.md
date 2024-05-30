@@ -13,15 +13,6 @@
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://app.daily.dev/piperguy">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/PiperGuy/PiperGuy/blob/main/devcard.svg"
-      alt="Naveen Pandurangi's Dev Card"
-    />
-  </a>
 </div>
 
 ## I am Naveen Pandurangi
