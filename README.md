@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <div align="left">
   <a href="https://twitter.com/PiperGuy_">
     <img
@@ -14,26 +12,12 @@
     />
   </a>
 </div>
----
-name: Naveen Pandurangi
-header:
-  - text: <span class="iconify" data-icon="tabler:phone"></span> (+91) 9986025795
+# Hi there 👋
+## I'm Naveen Pandurangi 
 
-  - text: <span class="iconify" data-icon="tabler:mail"></span> naveenppandurangi@gmail.com
-    link: mailto:naveenppandurangi@gmail.com
-  - text: <span class="iconify" data-icon="tabler:brand-github"></span> PiperGuy
-    link: https://github.com/PiperGuy
-  - text: <span class="iconify" data-icon="tabler:brand-linkedin"></span> in/naveen-pandurangi
-    link: https://www.linkedin.com/in/naveen-pandurangi/
----
+## About me
 
-<!-- Important: Replace all template content, especially contact details, with your own information. -->
-
-<!-- Important: When updating your email address, remember to change both the "text" (visible text) and the "link" (underlying hyperlink) fields. -->
-
-## Summary
-
-Full-stack developer and tech lead (7+ years) who ships clean, maintainable code in fast-moving teams. I
+Full-stack developer (~7 years) who ships clean, maintainable code in fast-moving teams. I
 own web apps end to end architecture, UX polish, and release quality while going deep into backend
 services and infrastructure when needed. Currently at Kim.cc leading the engineering of an AI-powered
 customer support platform, building everything from helpdesk data ingestion pipelines and a knowledge
@@ -126,16 +110,31 @@ employees and teams.
 - Built the data export module for an Angular powered HR
 management web app
 
+## Personal Projects
+
+**Tulr.io** 
+
+All-in-one workflow platform replacing tools like Airtable, Calendly, Typeform, and Loom. Enabled users to seamlessly integrate videos, tables, forms, and calendars into a unified interface with powerful automation. Designed to empower non-technical users to create custom applications such as applicant tracking systems, email marketing workflows, and video-based pitches with minimal setup.  
+
+**Cyclops Editor**
+
+Built an open-source editor on top of DraftJS
+with custom plugins (table, mentions, etc..)
+support
+
+
 ## Awards and Honors
 
 **The Highfier Award**, for exceptional contrubution and outstanding perfomance
   ~ **Airtel**, 2022
+
 
 ## Education
 
 **B.Eng in Computer Science**
   ~ Bengaluru
 
-Vivekananda Institute of Technology
+_VKIT, Visvesvaraya Technological University_
   ~  2015 - 2019
+
 
