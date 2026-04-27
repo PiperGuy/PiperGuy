@@ -13,8 +13,7 @@
   </a>
 </div>
 
-# Hi there 👋
-## I'm Naveen Pandurangi 
+# Hi there, I'm Naveen Pandurangi  👋 
 
 ## About me
 
